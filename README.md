@@ -1,2 +1,3 @@
 # Edutech-DataScience
-Exercícios realizados no Curso de Data Science na plataforma da Alura em conjunto a SEED (SECRETARIA DE ESTADO DA EDUCAÇÃO E DO ESPORTE DO PARANÁ).
+Resumo de Cursos realizados na Plataforma Alura em parceria a SEED - PR( SECRETARIA DA EDUCAÇÃO E DO ESPORTE DO ESTADO DO PARANÁ).
+Cursos que majortariamente abrange a Ciência de Dados a partir da linguagem de programação Python, tendo API's como NUMPY, PANDAS, SEABORN, MATPLOBIB, entre outros.
