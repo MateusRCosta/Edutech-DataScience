@@ -1,5 +1,5 @@
+# Criação de lista, laços e utilização de bibliotecas 
 # O objetivo do algoritmo é gerar números aleatórios referente a idade, e a partir deles dizer se é maior de idade ou não.
-# 
 # OBS : a idade de referência para a maioridade é de 18 anos.
 
 # importando uma função específica da biblioteca random.
