@@ -12,7 +12,7 @@ idades = []
 for idade in range(1,5):
   idades.append(randrange(0, 118))
 
-# criação de um laço para definir quais idades são consideradas maiores de 18 anos  
+# criação de um laço para definir quais idades são consideradas maiores de 18 anos e apresentar na tela do usuário
 for idade in idades:
   if(idade < 18):
     print('{} anos e é menor de idade.'.format(idade))
