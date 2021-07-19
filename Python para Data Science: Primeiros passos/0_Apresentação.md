@@ -1,4 +1,4 @@
-#Python para Data Science: Primeiros passos
+# Python para Data Science: Primeiros passos
 
 O primeiro curso, a envolver Python, dentro da Matéria de Data-Science da Alura em parceria com a SEED - PR é voltado a funções básicas do Python.
 
