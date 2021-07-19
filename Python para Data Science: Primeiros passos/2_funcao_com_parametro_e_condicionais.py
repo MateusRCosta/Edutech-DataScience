@@ -1,6 +1,6 @@
 # Criação de funções com paramêtros e utilização de condicionais
 # Objetivo do algoritmo é receber uma idade e um nome colocado pelo usuário e dizer se este pode tirar uma licença de motorista.
-# OBS: A idade de referência para retirar a licença de motorista é de 18 anos
+# OBS: A idade de referência para tirar a licença de motorista é de 18 anos
 
 # definindo uma função que retornará o nome e a idade digitado pelo usuário
 def questionario():
