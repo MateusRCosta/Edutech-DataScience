@@ -30,18 +30,22 @@ print('\n\n*Com Numpy', idade_carros )
 print('\n\n -> Operações entre Arrays\n\nQuilometragem média Anual\n\n')
 
  # Sem Numpy
-km_media_py = []       
-for roda in km:
-  km_media_py_1 = roda / idade
-  km_media_py.append(km_media_py_1)
-print('*Sem Numpy',km_media_py)
+km_media_py = []
+cont = 0
+
+while(cont < 5):
+ media_conta = km[cont] / (2021 - anos[cont])
+ km_media_py.append(media_conta)
+ cont += 1
+else:
+ print('Sem Numpy',km_media_py)
  
   # Com Numpy 
 km_media_np = km_np / (2021 - anos_np)
 print('\n\n*Com Numpy',km_media_np)
 
 # Operação com array de duas Dimensões
-print('\n\n Operação com array de duas Dimensões -- Quilometragem Média Anual\n\n')
+print('\n\n Operação com array de duas Dimensões Numpy -- Quilometragem Média Anual\n\n')
 dados = np.array([anos_np, km_np])
 km_media_np_dd = dados[1] / (2021 - dados[0]) 
 print(km_media_np_dd)
