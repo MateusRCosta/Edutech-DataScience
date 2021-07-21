@@ -1,5 +1,5 @@
 # Operações com Array 
-# O objetivo deste código é mostrar operações matemáticas com o Array 
+# O objetivo deste código é mostrar operações matemáticas com o Array e comparar com as funções Built-In do Python
 
 # Importando a Biblioteca
 import numpy as np 
