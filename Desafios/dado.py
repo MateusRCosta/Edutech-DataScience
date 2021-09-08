@@ -54,6 +54,7 @@ while resposta_jogador in afirmacao or negacao:
       print('Coloque uma resposta válida:\nNegação:não, nao, nn, n\nConfirmação:sim, ss, s\n "time" ou "tempo" para modificar o tempo de resposta, lembrando que tem que ser em segundos. ')
       resposta_jogador = input(str('Gostaria de jogar o dado ?\n:')).upper().strip()
 
+# extra:
 # Criação de um DataFrame a partir dos dados jogados, tendo como indice as faces do dado e uma coluna com o número de vezes que caiu a face
 
 series_dado = pd.Series(num_dado).value_counts()
